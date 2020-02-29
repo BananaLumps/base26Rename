@@ -1,0 +1,9 @@
+C:\Users\Michael\source\repos\base26Rename\base26Rename\bin\Debug\base26Rename.exe.config
+C:\Users\Michael\source\repos\base26Rename\base26Rename\bin\Debug\base26Rename.exe
+C:\Users\Michael\source\repos\base26Rename\base26Rename\bin\Debug\base26Rename.pdb
+C:\Users\Michael\source\repos\base26Rename\base26Rename\obj\Debug\base26Rename.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\base26Rename\base26Rename\obj\Debug\base26Rename.Form1.resources
+C:\Users\Michael\source\repos\base26Rename\base26Rename\obj\Debug\base26Rename.Properties.Resources.resources
+C:\Users\Michael\source\repos\base26Rename\base26Rename\obj\Debug\base26Rename.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\base26Rename\base26Rename\obj\Debug\base26Rename.exe
+C:\Users\Michael\source\repos\base26Rename\base26Rename\obj\Debug\base26Rename.pdb
