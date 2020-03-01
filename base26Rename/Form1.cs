@@ -35,7 +35,7 @@ namespace base26Rename
                 value = value / targetBase;
             }
             while (value > 0);
-            if(temp <= 26) return "a"+result;
+            if(temp < 26) return "a"+result;
             else return result;
         }
 
@@ -55,7 +55,7 @@ namespace base26Rename
                     MessageBox.Show("Invaild file name " + file, "Invalid file");
                     return;
                 }
-                try { File.Copy(file.FullName, outDir + @"\" + IntToString(num, numBase) + file.Extension); }
+                try { File.Copy(file.FullName, outDir + @"\" + IntToString(num-1, numBase) + file.Extension); }
                 catch { }
             }
             MessageBox.Show("Done!", "Finished");
